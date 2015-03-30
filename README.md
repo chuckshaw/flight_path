@@ -1,24 +1,20 @@
 # FlightPath
 
-TODO: Write a gem description
+Simple tool to take a set of lat/lon/alt/velocity values from an excel spreadsheet and calculate remaining column values to generate a simulated flight path.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'flight_path'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install it yourself as:
 
     $ gem install flight_path
 
 ## Usage
 
-TODO: Write usage instructions here
+Just run the executable:
+
+```
+$ flight_path
+```
 
 ## Contributing
 

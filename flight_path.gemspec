@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chuck Shaw"]
   spec.email         = ["chuck.shaw@gmail.com"]
   spec.summary       = %q{Simulated Flight Path Generator.}
-  spec.description   = %q{Simple tool to take a set of lat/lon/alt values and calculate a flight path for testing via a custom ICD Simulator.}
-  spec.homepage      = ""
+  spec.description   = %q{SSimple tool to take a set of lat/lon/alt/velocity values from an excel spreadsheet and calculate remaining column values to generate a simulated flight path.}
+  spec.homepage      = "https://github.com/chuckshaw/flight_path"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
