@@ -1,6 +1,6 @@
 # FlightPath
 
-Simple tool to take a set of lat/lon/alt/velocity values from an excel spreadsheet and calculate remaining column values to generate a simulated flight path.
+Personal tool to automate the iteration over a large set of lat/lon/alt/velocity values from an excel spreadsheet and calculate remaining column values to generate a simulated flight path.
 
 ## Installation
 
